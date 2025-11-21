@@ -1,0 +1,27 @@
+{
+  "name": "saas-tools-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "lucide-react": "^0.554.0",
+    "next": "16.0.3",
+    "papaparse": "^5.5.3",
+    "pdf-lib": "^1.17.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-quill": "^2.0.0",
+    "react-signature-canvas": "^1.1.0-alpha.2",
+    "tesseract.js": "^6.0.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3"
+  }
+}
